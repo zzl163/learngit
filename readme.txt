@@ -6,3 +6,5 @@ Creating a new branch is so quick！
 Creating a new branch is quick and simple!
 
 fix a bug!!!
+
+git stash test.
